@@ -1,0 +1,76 @@
+.zentaitext-back{
+  height:100%;
+  background-color:lightgray;
+  display:flex;
+  justify-content:center;
+  flex-direction: column;
+  }
+
+
+.form {
+    background-color: gray;
+    height: 80px;
+    width: 800px;
+    margin: 150px 300px 20px;
+ }
+
+input#content {
+    width: 620px;
+    height: 40px;
+    margin: 15px 10px 10px 40px;
+}
+
+input[type="submit"] {
+    height: 40px;
+    width: 80px;
+    background-color: skyblue;
+    font-size: 20px;
+    color: white;
+    border: skyblue;
+    margin: 0px 10px 1px 1px;
+}
+
+.background{
+background-color:white;
+width:750px;
+border:10px;
+margin:20px 300px;
+padding:25px;
+overflow-y: scroll;
+overflow-x: scroll;
+}
+
+
+
+.post-content{
+  margin:20px 10px;
+  width: 700px;
+  padding:20px 20px;
+  border: 1px;
+  height: 20px;
+  background-color:lightgray;
+  display: flex;  
+}
+
+.toukou{
+  background-color:lightgray;
+  height: 800px;
+  display:flex;
+  justify-content:center;
+}
+
+.kakomi{
+  border:1px;
+  width:300px;
+  padding:40px 40px 40px 40px;
+  background-color:white;
+  margin:100px 60px 500px 60px ;
+}
+
+h3 {
+    padding: 0px 60px;
+}
+
+a {
+    padding: 0px 90px;
+}
